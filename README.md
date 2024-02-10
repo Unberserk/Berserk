@@ -9,7 +9,7 @@
 Welcome to Berserk, your one-stop destination for streaming your favorite anime series and movies! This website is built using React and leverages several libraries and APIs to provide a seamless anime streaming experience.
 </p>
 
-ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴛʜɪs ᴡᴇʙsɪᴛᴇ ʜᴇʀᴇ ᴀɴᴅ ᴡᴀᴛᴄʜ ᴀɴɪᴍᴇ. <b>[Berserk](https://unberserk.vercel.app/)</b>
+ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴛʜɪs ᴡᴇʙsɪᴛᴇ ʜᴇʀᴇ ᴀɴᴅ ᴡᴀᴛᴄʜ ᴀɴɪᴍᴇ. <b>[Berserk](https://guhtsu.vercel.app/)</b>
 
 <details>
   <summary><b>ꜰᴇᴀᴛᴜʀᴇs :</b></summary>
