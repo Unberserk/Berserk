@@ -25,8 +25,8 @@ body {
   font-family: "Poppins", sans-serif !important;
 }
 :root {
-  --grey-dark: #343a40;
-  --dark: #242428;
+  --grey-dark: #1c1f22;
+  --dark: #121214;
   --height-small: 400px;
   --height-medium: 500px;
   --height-large: 610px;
