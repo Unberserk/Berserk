@@ -46,10 +46,10 @@ export default function Footer() {
       <div className="alphabet-list d-flex">{links}</div>
       <div className="copyright-text">
         <p>
-          Kaido does not store any files on our server; we only link to the
+          Berserk does not store any files on our server; we only link to the
           media which is hosted on 3rd party services.
         </p>
-        <p>&copy; Kaido All rights reserved.</p>
+        <p>&copy; Berserk All rights reserved.</p>
       </div>
     </div>
   );

@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://graph.org/file/69556c54c81017a34bad7.jpg" alt="KAido image">
+  <img src="https://i.ibb.co/3hyNb8n/Screenshot-2024-02-10-111003.png" alt="KAido image">
 </p>
 <h2 align="center">
-  「 ᴋᴀɪᴅᴏ - ᴀɴɪᴍᴇ sᴛʀᴇᴀᴍɪɴɢ ᴡᴇʙsɪᴛᴇ 」
+  「 Berserk - ᴀɴɪᴍᴇ sᴛʀᴇᴀᴍɪɴɢ ᴡᴇʙsɪᴛᴇ 」
 </h2>
 
 
-Welcome to Kaido, your one-stop destination for streaming your favorite anime series and movies! This website is built using React and leverages several libraries and APIs to provide a seamless anime streaming experience.
+Welcome to Berserk, your one-stop destination for streaming your favorite anime series and movies! This website is built using React and leverages several libraries and APIs to provide a seamless anime streaming experience.
 </p>
 
-ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴛʜɪs ᴡᴇʙsɪᴛᴇ ʜᴇʀᴇ ᴀɴᴅ ᴡᴀᴛᴄʜ ᴀɴɪᴍᴇ. <b>[ᴋᴀɪᴅᴏ](https://kaido.to)</b>
+ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴛʜɪs ᴡᴇʙsɪᴛᴇ ʜᴇʀᴇ ᴀɴᴅ ᴡᴀᴛᴄʜ ᴀɴɪᴍᴇ. <b>[Berserk](https://unberserk.vercel.app/)</b>
 
 <details>
   <summary><b>ꜰᴇᴀᴛᴜʀᴇs :</b></summary>
@@ -18,7 +18,7 @@ Welcome to Kaido, your one-stop destination for streaming your favorite anime se
 - [x] **Anime Library**: Browse and search for a wide range of anime series and movies.
 - [x] **Anime Details**: Get detailed information about each anime, including synopsis, genres, release date, and more.
 - [x] **Streaming**: Stream anime episodes and movies directly from the website.
-- [x] **User-friendly**: Kaido is designed with a user-friendly interface to enhance your viewing experience.
+- [x] **User-friendly**: Berserk is designed with a user-friendly interface to enhance your viewing experience.
 
 <b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href='https://t.me/TEAM_NETFLIX'>ᴛᴇᴧᴍ ɴᴇᴛғʟɪх • ᴏʀɪɢɪɴᴀʟꜱ</a>.</b>
 </details>

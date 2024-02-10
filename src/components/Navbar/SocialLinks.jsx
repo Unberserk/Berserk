@@ -13,7 +13,7 @@ export default function SocialLinks() {
         className="d-flex a-center j-center"
       >
         <a
-          href="https://discord.com/"
+          href="https://unberserk.github.io/Home/"
           target="_blank"
           rel="noreferrer"
         >
